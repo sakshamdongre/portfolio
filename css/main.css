@@ -1,0 +1,30 @@
+.site-header{
+
+    background-color: #507b8dc7;
+    color: white;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+
+}
+.site-header-context{
+
+    margin:10px;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    justify-content: center;
+ box-shadow: #3f7892e0 2px 5px 5px;;
+}
+
+.sakshamistic{
+    color: white;
+}
+
+body{
+    margin:1px;
+}
